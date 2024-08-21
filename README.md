@@ -11,6 +11,7 @@ L'Étoile Dorée est un restaurant de prestige situé au cœur de la Voie Lacté
 ## Gestion du Menu
 
 - **Création, Modification, Suppression**: L'administrateur ou le responsable doit pouvoir créer, modifier ou supprimer le menu via une interface dédiée et conviviale.
+- **Reservation**: L'adiministrateur aura la possibilité de voir les reservations dans un onglet.
 - **Détails et Prix**: L'interface doit permettre d'ajouter ou de modifier des descriptions détaillées et les prix des plats.
 
 ## Réservation de Table
